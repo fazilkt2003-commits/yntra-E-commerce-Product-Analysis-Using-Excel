@@ -103,7 +103,8 @@ Dashboard Features:
 ⸻
 
 📸 Visualizations 
-<img width="1440" height="900" alt="Screenshot 2026-04-28 at 1 34 05 am" src="https://github.com/user-attachments/assets/15bdc916-2635-4833-a0be-ff1835b3ab86" />
+<img width="1440" height="900" alt="Screenshot 2026-04-28 at 1 28 59 am" src="https://github.com/user-attachments/assets/bb12e721-3119-4815-801c-90af9eaa14a7" />
+
 <img width="1440" height="900" alt="Screenshot 2026-04-28 at 1 34 05 am" src="https://github.com/user-attachments/assets/6c4adfca-a0ca-4abb-a37d-05150320d1f3" />
 <img width="1440" height="900" alt="Screenshot 2026-04-28 at 1 47 42 am" src="https://github.com/user-attachments/assets/bc51f11a-712d-4c7a-bf8b-1957b21e5e8a" />
 <img width="1440" height="900" alt="Screenshot 2026-04-28 at 1 25 33 am" src="https://github.com/user-attachments/assets/b0ed61aa-3d7d-46ff-aaeb-400833c4c172" />
